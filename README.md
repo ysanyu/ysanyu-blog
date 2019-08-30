@@ -29,7 +29,7 @@ npm install
 npm start
 ```
 
-#### 配置（Config）
+### 配置（Config）
 
 #### 前端（ysanyu-blog）
 
