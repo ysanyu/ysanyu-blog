@@ -38,10 +38,11 @@ npm start
 - 配置 baseUrl 为你的接口地址。
 - 如果使用 localhost:3000，则需开启代理。即设置 changeOrigin: true
 
-#### 前端（ysanyu-blog）
+#### 后端（api）
 
 **/routes/uploadImg.js**:
 
+- 使用的是七牛云托管服务。
 - 上传图片的配置。相关配置参考使用文档
 
 # 参考文档
